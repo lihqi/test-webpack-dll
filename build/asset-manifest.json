@@ -1,10 +1,10 @@
 {
-  "main.css": "/test-webpack-dll/build/static/css/main.a00e7d17.chunk.css",
-  "main.js": "/test-webpack-dll/build/static/js/main.ab5a36c1.chunk.js",
-  "main.js.map": "/test-webpack-dll/build/static/js/main.ab5a36c1.chunk.js.map",
+  "main.css": "/test-webpack-dll/build/static/css/main.e890955d.chunk.css",
+  "main.js": "/test-webpack-dll/build/static/js/main.fc714665.chunk.js",
+  "main.js.map": "/test-webpack-dll/build/static/js/main.fc714665.chunk.js.map",
   "runtime~main.js": "/test-webpack-dll/build/static/js/runtime~main.56546554.js",
   "runtime~main.js.map": "/test-webpack-dll/build/static/js/runtime~main.56546554.js.map",
-  "static/media/logo.svg": "/test-webpack-dll/build/static/media/logo.5d5d9eef.svg",
-  "static/css/main.a00e7d17.chunk.css.map": "/test-webpack-dll/build/static/css/main.a00e7d17.chunk.css.map",
+  "static/media/logo.svg": "/test-webpack-dll/build/static/media/logo.ee7cd8ed.svg",
+  "static/css/main.e890955d.chunk.css.map": "/test-webpack-dll/build/static/css/main.e890955d.chunk.css.map",
   "index.html": "/test-webpack-dll/build/index.html"
 }
